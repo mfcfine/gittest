@@ -1,5 +1,6 @@
 # 1-使用Github（目的、基本概念、注册账号）
 
+推荐：
 [bilibili 【教程】学会Git玩转Github【全】](https://www.bilibili.com/video/av10475153?from=search&seid=1210665366888354577)
 
 ## 目的
